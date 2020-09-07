@@ -1,0 +1,79 @@
+/* .cardPosition{
+    margin-left: 45%;      
+} */
+.faturamentoCardPosition{
+    position: absolute;
+    margin-left: 72%;
+    margin-top: 5%;
+}
+.vendasCardPosition{
+    position: absolute;
+    margin-left: 44%;
+    margin-top: 5%;
+}
+.card{
+    /* position: absolute; */    
+    width: 358px;
+    height: 124px;
+    
+    /* grayscale / white */
+    
+    background: #FFFFFF;
+    /* grayscale / divider */
+    
+    border: 1px solid #DFE0EB;
+    box-sizing: border-box;
+    border-radius: 8px; 
+    margin-top: 5%;
+}
+
+.titleCard{    
+    display: flex;          
+    flex-direction: column;   
+    align-content: center;
+    left: 846px;
+    
+    /* top: 310px; */
+
+    /* Bold 19 (0.4 px) */
+
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.4px;
+
+    /* grayscale / gray */
+
+    color: #9FA2B4;
+}
+
+.valorCard{
+    display: flex;      
+    flex-direction: column;    
+    justify-content: center;
+    align-content: center;
+    margin-top: auto;
+    /* height: 16px; */
+    left: 858px;
+    right: 388px;
+    /* top: 326px; */
+
+    /* Bold 40 (1 px) */
+
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 1px;
+
+    /* grayscale / black */
+
+    color: #252733;
+}

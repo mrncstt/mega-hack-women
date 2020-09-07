@@ -1,23 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import VendasMes from './components/VendasMes'
+import Faturamento from './components/Faturamento'
+import VendaProdutos from './components/VendasProdutos'
+import Card from './components/Cards'
+import Atividades from './components/Atividades'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header className="App-header">        
+        <div className="faturamentoCardPosition">
+          <Card value='104,645' title='Faturamento total (R$)'/>
+          <Card value='8.720' title='Faturamento médio'/>
+        </div>
+        <div className="vendasCardPosition">
+          <Card value='1.105' title='Vendas acumuladas'/>
+          <Card value='190' title='Vendas neste mês'/>        
+        </div>
+        <VendasMes/> 
+        <Faturamento/>  
+        <VendaProdutos/>  
+        <Atividades/>
       </header>
     </div>
   );

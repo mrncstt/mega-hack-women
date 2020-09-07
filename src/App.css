@@ -1,3 +1,11 @@
+.cardsPosition{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: red;
+  align-content: stretch;
+}
+
 .App {
   text-align: center;
 }

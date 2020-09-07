@@ -1,0 +1,20 @@
+.vendasProdutos{
+    position: absolute;
+    margin-left: 42%;
+    margin-top: 30%;
+}
+.titleChart{      
+    width: 209px;
+    height: 27px;
+    left: 854px;
+    top: 619px;
+
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: 0.3px;
+
+    color: #000000;
+}
