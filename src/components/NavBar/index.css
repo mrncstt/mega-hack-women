@@ -61,12 +61,12 @@ a:hover {
     text-decoration: none;
     color: #0C29D0;
   }
-
-a:link{
+  
+  a:link{
     text-decoration: none;
-}
-
-a{
+  }
+  
+  a{
     margin-left: 3%;
     padding-inline-end: 3%;
 }
