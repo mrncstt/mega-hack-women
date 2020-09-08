@@ -56,7 +56,7 @@ Será utilizado para informar o usuário sobre a utilização da plataforma, bem
 <table>
   <tr>
     <td align="center"><a href="https://www.youtube.com/watch?v=KjtVrT3lUfI&feature=youtu.be"><img src="https://i.imgur.com/7f0ZkbD.png" width="280px;" alt=""/><br /><sub><b>Pitch</b></sub></a><br /><a href="https://www.youtube.com/watch?v=KjtVrT3lUfI&feature=youtu.be" title="YouTube">🎥</a></td>
-    <td align="center"><a href="https://www.youtube.com/ "><img src="https://i.imgur.com/SFfSyFK.png" width="280px;" alt=""/><br /><sub><b>Demo</b></sub></a><br /><a href="https://www.youtube.com/" title="YouTube">🎥</a></td>
+    <td align="center"><a href="https://youtu.be/U2fUmmdjDMw"><img src="https://i.imgur.com/SFfSyFK.png" width="280px;" alt=""/><br /><sub><b>Demo</b></sub></a><br /><a href="https://youtu.be/U2fUmmdjDMw" title="YouTube">🎥</a></td>
 </table>
 
 
