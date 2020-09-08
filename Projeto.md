@@ -64,11 +64,13 @@ Será utilizado para informar o usuário sobre a utilização da plataforma, bem
 
 ####  ○  📲 [MVP](https://mega-hack-women.herokuapp.com/)
 
+####  ○  📇 [Códigos](https://github.com/liara987/mega-hack-women/blob/master/README.md)
+
 ####  ○  🖼️ [Apresentação](https://bit.ly/AMEdata_Apresentacao )
 
 
 
-### Time 03
+### Time 02
 
 <table>
   <tr>
