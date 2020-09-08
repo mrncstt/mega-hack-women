@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">        
-      <NavBar/>
+      <NavBar/>      
         <div className="faturamentoCardPosition">
           <Card value='104,645' title='Faturamento total (R$)'/>
           <Card value='8.720' title='Faturamento médio'/>

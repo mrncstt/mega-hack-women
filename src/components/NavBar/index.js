@@ -3,7 +3,7 @@ import './index.css'
 import sino from '../../img/sino.png'
 import foguete from '../../img/foguete.png'
 class NavBar extends Component {
-    render() {
+  render() {
     return (    
         <div className='navbar'>                                                
           <img 

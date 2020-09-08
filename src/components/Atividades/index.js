@@ -8,10 +8,10 @@ class Card extends Component {
                 <div>
                     <p className='titleCard'>{this.props.title}</p>
                     <p className='valorCard'>{this.props.value}</p>
-                    <div class="frame">
+                    <div className="frame">
                         <div >
-                            <section class="todo-cmp">
-                                <header class="todo-cmp__header">
+                            <section className="todo-cmp">
+                                <header className="todo-cmp__header">
                                     <h2 className="left">Atividade</h2>     
                                     <span className="today left">Hoje</span>                          
                                     <span className="seeMore right">Ver tudo</span> 
@@ -20,7 +20,7 @@ class Card extends Component {
                                         <span className="addTask center">+</span>
                                     </div>
                                 </header>
-                                <ul class="todo-cmp__list">                                    
+                                <ul className="todo-cmp__list">                                    
                                     <li>
                                         <label for="todo-01">
                                             <input id="todo-01" type="checkbox"/>
