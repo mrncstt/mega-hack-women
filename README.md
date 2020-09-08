@@ -1,68 +1,87 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## [Mega Hack Women](https://www.megahackwomen.com.br/) 
+####  [Olist](https://olist.com/) | [Shawee](https://shawee.io/pt/) 
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+<h1 align="center">
+<br />
+  <img src="https://i.imgur.com/jUMM5Ia.png" alt="logo" border="0">
+<br />
+<br />
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</h1>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+#### OliBot e OlistBoard
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+O [**OliBot**](https://mega-hack-women.herokuapp.com/)  foi criado para facilitar a comunicação entre a plataforma e o usuário e será utilizado para informar o usuário sobre a utilização da plataforma, bem como para melhorar sua experiência, através de quiz e games interativos. 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Já o [**OlistBoard**](https://mega-hack-women.herokuapp.com/) auxiliará nacriação de um dashboards dentro da plataforma do Olist a fim de promover aos lojistas:
+- um maior entendimento dos dados de seu negócio;
+- auxiliá-los nas tomadas de decisão;
+- analise da quantidade de vendas; 
+- faturamentos e preços por mês ;
+- incluindo a opção de filtros cuistomizáveis.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Recursos usados
+- [Figma](https://www.figma.com/)
+- [Heroku](https://www.heroku.com/)
+  
+  
 
-### `yarn eject`
+### Testemunhos
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> **“Agora estou  conseguindo acompanhar bem melhor as minhas vendas para saber o que comprar e como vender! ”**<br>
+> — Maria | Empreendedora
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> **“Ainda bem que o preço dos produtos que eu queria comprar deram uma  diminuida, além de eu ter mais informações sobre os produtos!”**<br>
+> — Alice | Cliente
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### [Protótipo](https://mega-hack-women.herokuapp.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Será utilizado para informar o usuário sobre a utilização da plataforma, bem como para melhorar sua experiência, através de quiz e games interativos. 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+![](https://i.imgur.com/NRixgC5.png)
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+### Videos
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+<table>
+  <tr>
+    <td align="center"><a href="https://www.youtube.com/watch?v=KjtVrT3lUfI&feature=youtu.be"><img src="https://i.imgur.com/7f0ZkbD.png" width="280px;" alt=""/><br /><sub><b>Pitch</b></sub></a><br /><a href="https://www.youtube.com/watch?v=KjtVrT3lUfI&feature=youtu.be" title="YouTube">🎥</a></td>
+    <td align="center"><a href="https://youtu.be/U2fUmmdjDMw"><img src="https://i.imgur.com/SFfSyFK.png" width="280px;" alt=""/><br /><sub><b>Demo</b></sub></a><br /><a href="https://youtu.be/U2fUmmdjDMw" title="YouTube">🎥</a></td>
+</table>
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### Entregas
 
-### Deployment
+####  ○  📲 [MVP](https://mega-hack-women.herokuapp.com/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+####  ○  📇 [Code](https://github.com/liara987/mega-hack-women/blob/master/README.md)
 
-### `yarn build` fails to minify
+####  ○  🖼️ [Apresentação](https://drive.google.com/file/d/1xu9vBeG39u15BexDmw6LLl3qBiQSv4-d/view?usp=sharing)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### Time 02
+
+<table>
+  <tr>
+     <td align="center"><a href="https://www.linkedin.com/in/aline-manhenti-neves-8ab031167/"><img src="https://i.imgur.com/QMCLYT3.jpg" width="100px;" alt=""/><br /><sub><b> Aline Manhenti</b></sub></a><br /><a href="https://www.linkedin.com/in/aline-manhenti-neves-8ab031167/" title="Site">💻</a> <a href="https://www.linkedin.com/in/aline-manhenti-neves-8ab031167/" title="Email">📧</a> </td>
+     <td align="center"><a href="https://www.linkedin.com/in/ana-daniele-feula-842219140/"><img src="https://i.imgur.com/Ecu6m0w.jpg" width="100px;" alt=""/><br /><sub><b> Ana Feula</b></sub></a><br /><a href="ananidesigner@gmail.com" title="Site">💻</a> <a href="https://www.linkedin.com/in/ana-daniele-feula-842219140/" title="Email">📧</a> </td>
+     <td align="center"><a href="https://www.linkedin.com/in/andrezarockenbach/"><img src="https://i.imgur.com/E2kkn0p.jpg" width="100px;" alt=""/><br /><sub><b> Andreza Rockenbach</b></sub></a><br /><a href="https://www.linkedin.com/in/andrezarockenbach/" title="Site">💻</a> <a href="https://www.linkedin.com/in/andrezarockenbach/" title="Email">📧</a> </td>
+     <td align="center"><a href="https://www.linkedin.com/in/liara-programadora/"><img src="https://i.imgur.com/xbEfigR.jpg" width="100px;" alt=""/><br /><sub><b> Liara Duarte</b></sub></a><br /><a href="https://www.linkedin.com/in/liara-programadora/" title="Site">💻</a> <a href="https://www.linkedin.com/in/liara-programadora/" title="Email">📧</a> </td>
+     <td align="center"><a href="https://mrncstt.github.io/posts/"><img src="https://i.imgur.com/UMWYzzG.jpg" width="100px;" alt=""/><br /><sub><b>Mariana Costa</b></sub></a><br /><a href="marianacosta.data@gmail.com" title="Site">💻</a> <a href="https://mrncstt.github.io/" title="Email">📧</a> </td>
+ </table>
+
+
+## Licença
+
+This project is licensed under the Hack Code of Conduct - see the [LICENSE](https://hackcodeofconduct.org/) page for details.
